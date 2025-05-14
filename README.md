@@ -41,8 +41,19 @@ To build your digital ID card, please provide the following:
 
 ## Preview 🖼️  
 
-Here’s a sneak peek at the application in action:  
-👉 [Watch Demo](https://player.cloudinary.com/embed/?cloud_name=djqcxjy0m&public_id=y1bvowxhseudpyqavzlp&profile=cld-default)
+Here’s a sneak peek at the application in action:
+
+<div align="center">
+  <iframe 
+    src="https://player.cloudinary.com/embed/?cloud_name=djqcxjy0m&public_id=y1bvowxhseudpyqavzlp&profile=cld-default" 
+    width="640" 
+    height="360" 
+    allow="autoplay; fullscreen; encrypted-media; picture-in-picture" 
+    allowfullscreen 
+    frameborder="0">
+  </iframe>
+</div>
+
 
 ## Useful Links 📌  
 
