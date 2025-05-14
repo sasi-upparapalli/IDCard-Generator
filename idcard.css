@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #111;
+}
+
+.idcard {
+  width: 320px; 
+  height: 535px;
+  background-image: url('idcard.png'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  transform-origin: top left;
+  border: 5px solid rgb(113, 108, 108);
+  box-shadow: 0 0 10px rgb(227, 226, 226);
+}
+
+.id-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+#studentPhoto {
+  width: 110px;
+  height: 130px;
+  position: absolute;
+  top: 163px;
+  left: 105px;
+  object-fit: cover;
+}
+
+.year {
+  position: absolute;
+  top: 120px;
+  left: 115px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #663399;
+  font-family: 'Roboto', sans-serif;
+}
+
+.blood {
+  position: absolute;
+  top: 222px;
+  left: 70px;
+  font-size: 11px;
+  color: rgb(247, 241, 241);
+}
+
+.name {
+  position: absolute;
+  top: 280px;
+  left: 48%;
+  transform: translateX(-50%);
+  font-size: 18px; 
+  font-weight: bold;
+  color: #0057f9;
+  text-align: center;
+  white-space: nowrap; 
+  max-width: 90%; 
+  overflow: visible;
+  text-transform: uppercase;
+  text-overflow: ellipsis; 
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+.branch {
+  position: absolute;
+  top: 300px;
+  left: 60px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #dd0f0f;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+.roll {
+  position: absolute;
+  top: 300px;
+  left: 170px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #dd0f0f;
+  font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+}
+
+.birthday {
+  position: absolute;
+  font-size: 16px;
+  color: #000;
+  top: 340px;
+  left: 35px;
+  width: 240px;
+}
+
+.Adhar {
+  position: absolute;
+  font-size: 16px;
+  color: #000;
+  top: 360px;
+  left: 35px;
+  width: 240px;
+}
+
+.address {
+  position: absolute;
+  font-size: 16px;
+  color: #000;
+  top: 380px;
+  left: 35px;
+  width: 240px;
+  height: auto;
+  max-height: 60px; 
+  overflow: hidden;
+  word-break: break-word;
+  line-height: 1.2;
+}
+
+.mnumber {
+  position: absolute;
+  font-size: 14px;
+  font-weight: bold;
+  color: #000;
+  top: 460px;
+  left: 20px;
+  width: 240px;
+  font-family: 'Lobster', cursive;
+}
+
+.label {
+  font-weight: bold;
+  color: #22058c;
+  font-size: 18px;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+
+@media (max-width: 600px) {
+  .idcard {
+    transform: scale(0.8);
+  }
+}
+
+@media (max-width: 400px) {
+  .idcard {
+    transform: scale(0.6);
+  }
+}
+
