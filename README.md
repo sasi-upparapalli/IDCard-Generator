@@ -44,6 +44,8 @@ To build your digital ID card, please provide the following:
 Here’s a sneak peek at the application in action:
 ![Demo alt](https://github.com/sasi-upparapalli/IDCard-Generator/blob/a1adc0f515835119258c78ead216de1659a203fc/Extra/demo.gif)
 
+Desktop View:
+![Desktop alt](https://github.com/sasi-upparapalli/IDCard-Generator/blob/f4516a1a2facea59fcd386a0c0fd0b28e54a10fa/Extra/desk1.png)
 ## Useful Links 📌  
 
 - 🌐 **Live App**: [Open Website](https://sasi-upparapalli.github.io/IDCard-Generator/)  
