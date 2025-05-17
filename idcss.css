@@ -2,6 +2,45 @@
 body{
     background: #000;
 }
+.instructions {
+max-width: 800px;
+margin: 20px auto;
+padding: 20px;
+background: linear-gradient(to right, #131313, #1a1a2e);
+border: 3px solid #fff;
+border-radius: 10px;
+color: #f2f2f2;
+box-shadow: 0 0 20px rgba(133, 97, 211, 0.6);
+}
+
+.instructions h2 {
+text-align: center;
+margin-bottom: 15px;
+color: #12B1D1;
+font-size: 20px;
+}
+
+.instructions ul {
+list-style-type: disc;
+padding-left: 20px;
+}
+
+.instructions li {
+margin-bottom: 8px;
+font-size: 14px;
+line-height: 1.6;
+}
+
+/* Responsive: Stack instructions better on smaller screens */
+@media (max-width: 768px) {
+.instructions {
+padding: 15px;
+}
+
+.instructions li {
+font-size: 13px;
+}
+}
 .card {
   max-width: 800px;
   margin: 40px auto;
