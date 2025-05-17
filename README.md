@@ -1,13 +1,14 @@
 # Student ID Card Creator 🎓  
+
 Welcome to the **Raghu Engineering College Student ID Card Creator** — a simple yet powerful tool to design personalized student identity cards with ease.
 
 ## Contents 📚  
-- [Introduction](#introduction)
-- [Information Needed](#information-needed)
-- [Key Highlights](#key-highlights)
-- [Technology Stack](#technology-stack)
-- [Preview](#preview)
-- [Useful Links](#useful-links)
+- [Introduction](#introduction-🎯)
+- [Information Needed](#information-needed-📝)
+- [Key Highlights](#key-highlights-✨)
+- [Technology Stack](#technology-stack-🛠️)
+- [Preview](#preview-🖼️)
+- [Useful Links](#useful-links-📌)
 
 ## Introduction 🎯  
 
