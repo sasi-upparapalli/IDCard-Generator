@@ -145,13 +145,13 @@ body {
 
 @media (max-width: 600px) {
   .idcard {
-    transform: scale(0.8);
+    transform: scale(1);
   }
 }
 
 @media (max-width: 400px) {
   .idcard {
-    transform: scale(1.5);
+    transform: scale(1);
   }
 }
 
