@@ -18,15 +18,15 @@ The **Student ID Card Creator** offers a quick way to craft professional student
 
 To build your digital ID card, please provide the following:
 
-- **Full Name** – Type your complete name.  
-- **Date of Birth** – Format: DD-MM-YYYY.  
-- **Blood Group** – Mention your blood group.  
-- **Roll Number** – Input your assigned roll number.  
-- **Branch** – Your department (e.g., CSE(DS)).  
-- **Year of Admission** – The year you joined the institution.  
-- **Email Address** – Your valid email.  
-- **Residential Address** – Include door number, street, and city/village.  
-- **Profile Photo** – Upload a personal image to appear on your ID.
+- **Full Name**: Type your complete name. (SURNAME YOUR NAME)
+- **Date of Birth**: SELECT YOUR DOB
+- **Blood Group**: Select your blood group.
+- **Roll Number**: Type your assigned roll number.
+- **Branch**: Select Your department (e.g., Data science-CSD).
+- **Year of Admission**: The year you joined the institution.
+- **Email Address**: Enter Your valid email address.
+- **Residential Address**: Enter your address (Door Number, Street/Village name, City name, District, State).
+- **Profile Photo**: Upload a personal image to appear on your ID. (Upload Your passport size photo).
 
 ## Key Highlights ✨  
 
