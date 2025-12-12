@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/IDCard-Generator/static/css/main.b044cd4e.css",
-    "main.js": "/IDCard-Generator/static/js/main.1b1300e1.js",
+    "main.js": "/IDCard-Generator/static/js/main.5eb2ffd7.js",
     "index.html": "/IDCard-Generator/index.html",
     "main.b044cd4e.css.map": "/IDCard-Generator/static/css/main.b044cd4e.css.map",
-    "main.1b1300e1.js.map": "/IDCard-Generator/static/js/main.1b1300e1.js.map"
+    "main.5eb2ffd7.js.map": "/IDCard-Generator/static/js/main.5eb2ffd7.js.map"
   },
   "entrypoints": [
     "static/css/main.b044cd4e.css",
-    "static/js/main.1b1300e1.js"
+    "static/js/main.5eb2ffd7.js"
   ]
 }
