@@ -67,8 +67,9 @@ export default function FormPage(){
           localStorage.setItem('idCardData', JSON.stringify(idCardData))
 
           // Open the idcard page in a new tab (keeps same behavior)
-          const url = window.location.origin + '/idcard'
-          window.open(url, '_blank')
+          const basePath = window.location.origin + window.location.pathname.replace(/\/$/, ''); 
+const url = `${basePath}#/idcard`;
+window.open(url, '_blank');
         }
 
         img.src = e.target.result
